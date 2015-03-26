@@ -1,0 +1,106 @@
+M:\2015 Kevät\Windows-ohjelmointi\Harjoituksia\ODataV4Endpoint\ODataV4Endpoint\bin\ODataV4Endpoint.dll.config
+M:\2015 Kevät\Windows-ohjelmointi\Harjoituksia\ODataV4Endpoint\ODataV4Endpoint\bin\ODataV4Endpoint.dll
+M:\2015 Kevät\Windows-ohjelmointi\Harjoituksia\ODataV4Endpoint\ODataV4Endpoint\bin\ODataV4Endpoint.pdb
+M:\2015 Kevät\Windows-ohjelmointi\Harjoituksia\ODataV4Endpoint\ODataV4Endpoint\bin\EntityFramework.dll
+M:\2015 Kevät\Windows-ohjelmointi\Harjoituksia\ODataV4Endpoint\ODataV4Endpoint\bin\EntityFramework.SqlServer.dll
+M:\2015 Kevät\Windows-ohjelmointi\Harjoituksia\ODataV4Endpoint\ODataV4Endpoint\bin\Microsoft.OData.Core.dll
+M:\2015 Kevät\Windows-ohjelmointi\Harjoituksia\ODataV4Endpoint\ODataV4Endpoint\bin\Microsoft.OData.Edm.dll
+M:\2015 Kevät\Windows-ohjelmointi\Harjoituksia\ODataV4Endpoint\ODataV4Endpoint\bin\Microsoft.Spatial.dll
+M:\2015 Kevät\Windows-ohjelmointi\Harjoituksia\ODataV4Endpoint\ODataV4Endpoint\bin\Newtonsoft.Json.dll
+M:\2015 Kevät\Windows-ohjelmointi\Harjoituksia\ODataV4Endpoint\ODataV4Endpoint\bin\System.Net.Http.Formatting.dll
+M:\2015 Kevät\Windows-ohjelmointi\Harjoituksia\ODataV4Endpoint\ODataV4Endpoint\bin\System.Web.Http.dll
+M:\2015 Kevät\Windows-ohjelmointi\Harjoituksia\ODataV4Endpoint\ODataV4Endpoint\bin\System.Web.Http.WebHost.dll
+M:\2015 Kevät\Windows-ohjelmointi\Harjoituksia\ODataV4Endpoint\ODataV4Endpoint\bin\System.Web.OData.dll
+M:\2015 Kevät\Windows-ohjelmointi\Harjoituksia\ODataV4Endpoint\ODataV4Endpoint\bin\EntityFramework.xml
+M:\2015 Kevät\Windows-ohjelmointi\Harjoituksia\ODataV4Endpoint\ODataV4Endpoint\bin\EntityFramework.SqlServer.xml
+M:\2015 Kevät\Windows-ohjelmointi\Harjoituksia\ODataV4Endpoint\ODataV4Endpoint\bin\Microsoft.OData.Core.xml
+M:\2015 Kevät\Windows-ohjelmointi\Harjoituksia\ODataV4Endpoint\ODataV4Endpoint\bin\Microsoft.OData.Edm.xml
+M:\2015 Kevät\Windows-ohjelmointi\Harjoituksia\ODataV4Endpoint\ODataV4Endpoint\bin\Microsoft.Spatial.xml
+M:\2015 Kevät\Windows-ohjelmointi\Harjoituksia\ODataV4Endpoint\ODataV4Endpoint\bin\Newtonsoft.Json.xml
+M:\2015 Kevät\Windows-ohjelmointi\Harjoituksia\ODataV4Endpoint\ODataV4Endpoint\bin\System.Net.Http.Formatting.xml
+M:\2015 Kevät\Windows-ohjelmointi\Harjoituksia\ODataV4Endpoint\ODataV4Endpoint\bin\System.Web.Http.xml
+M:\2015 Kevät\Windows-ohjelmointi\Harjoituksia\ODataV4Endpoint\ODataV4Endpoint\bin\System.Web.Http.WebHost.xml
+M:\2015 Kevät\Windows-ohjelmointi\Harjoituksia\ODataV4Endpoint\ODataV4Endpoint\bin\System.Web.OData.xml
+M:\2015 Kevät\Windows-ohjelmointi\Harjoituksia\ODataV4Endpoint\ODataV4Endpoint\bin\de\Microsoft.OData.Core.resources.dll
+M:\2015 Kevät\Windows-ohjelmointi\Harjoituksia\ODataV4Endpoint\ODataV4Endpoint\bin\es\Microsoft.OData.Core.resources.dll
+M:\2015 Kevät\Windows-ohjelmointi\Harjoituksia\ODataV4Endpoint\ODataV4Endpoint\bin\fr\Microsoft.OData.Core.resources.dll
+M:\2015 Kevät\Windows-ohjelmointi\Harjoituksia\ODataV4Endpoint\ODataV4Endpoint\bin\it\Microsoft.OData.Core.resources.dll
+M:\2015 Kevät\Windows-ohjelmointi\Harjoituksia\ODataV4Endpoint\ODataV4Endpoint\bin\ja\Microsoft.OData.Core.resources.dll
+M:\2015 Kevät\Windows-ohjelmointi\Harjoituksia\ODataV4Endpoint\ODataV4Endpoint\bin\ko\Microsoft.OData.Core.resources.dll
+M:\2015 Kevät\Windows-ohjelmointi\Harjoituksia\ODataV4Endpoint\ODataV4Endpoint\bin\ru\Microsoft.OData.Core.resources.dll
+M:\2015 Kevät\Windows-ohjelmointi\Harjoituksia\ODataV4Endpoint\ODataV4Endpoint\bin\zh-Hans\Microsoft.OData.Core.resources.dll
+M:\2015 Kevät\Windows-ohjelmointi\Harjoituksia\ODataV4Endpoint\ODataV4Endpoint\bin\zh-Hant\Microsoft.OData.Core.resources.dll
+M:\2015 Kevät\Windows-ohjelmointi\Harjoituksia\ODataV4Endpoint\ODataV4Endpoint\bin\de\Microsoft.OData.Edm.resources.dll
+M:\2015 Kevät\Windows-ohjelmointi\Harjoituksia\ODataV4Endpoint\ODataV4Endpoint\bin\es\Microsoft.OData.Edm.resources.dll
+M:\2015 Kevät\Windows-ohjelmointi\Harjoituksia\ODataV4Endpoint\ODataV4Endpoint\bin\fr\Microsoft.OData.Edm.resources.dll
+M:\2015 Kevät\Windows-ohjelmointi\Harjoituksia\ODataV4Endpoint\ODataV4Endpoint\bin\it\Microsoft.OData.Edm.resources.dll
+M:\2015 Kevät\Windows-ohjelmointi\Harjoituksia\ODataV4Endpoint\ODataV4Endpoint\bin\ja\Microsoft.OData.Edm.resources.dll
+M:\2015 Kevät\Windows-ohjelmointi\Harjoituksia\ODataV4Endpoint\ODataV4Endpoint\bin\ko\Microsoft.OData.Edm.resources.dll
+M:\2015 Kevät\Windows-ohjelmointi\Harjoituksia\ODataV4Endpoint\ODataV4Endpoint\bin\ru\Microsoft.OData.Edm.resources.dll
+M:\2015 Kevät\Windows-ohjelmointi\Harjoituksia\ODataV4Endpoint\ODataV4Endpoint\bin\zh-Hans\Microsoft.OData.Edm.resources.dll
+M:\2015 Kevät\Windows-ohjelmointi\Harjoituksia\ODataV4Endpoint\ODataV4Endpoint\bin\zh-Hant\Microsoft.OData.Edm.resources.dll
+M:\2015 Kevät\Windows-ohjelmointi\Harjoituksia\ODataV4Endpoint\ODataV4Endpoint\bin\de\Microsoft.Spatial.resources.dll
+M:\2015 Kevät\Windows-ohjelmointi\Harjoituksia\ODataV4Endpoint\ODataV4Endpoint\bin\es\Microsoft.Spatial.resources.dll
+M:\2015 Kevät\Windows-ohjelmointi\Harjoituksia\ODataV4Endpoint\ODataV4Endpoint\bin\fr\Microsoft.Spatial.resources.dll
+M:\2015 Kevät\Windows-ohjelmointi\Harjoituksia\ODataV4Endpoint\ODataV4Endpoint\bin\it\Microsoft.Spatial.resources.dll
+M:\2015 Kevät\Windows-ohjelmointi\Harjoituksia\ODataV4Endpoint\ODataV4Endpoint\bin\ja\Microsoft.Spatial.resources.dll
+M:\2015 Kevät\Windows-ohjelmointi\Harjoituksia\ODataV4Endpoint\ODataV4Endpoint\bin\ko\Microsoft.Spatial.resources.dll
+M:\2015 Kevät\Windows-ohjelmointi\Harjoituksia\ODataV4Endpoint\ODataV4Endpoint\bin\ru\Microsoft.Spatial.resources.dll
+M:\2015 Kevät\Windows-ohjelmointi\Harjoituksia\ODataV4Endpoint\ODataV4Endpoint\bin\zh-Hans\Microsoft.Spatial.resources.dll
+M:\2015 Kevät\Windows-ohjelmointi\Harjoituksia\ODataV4Endpoint\ODataV4Endpoint\bin\zh-Hant\Microsoft.Spatial.resources.dll
+M:\2015 Kevät\Windows-ohjelmointi\Harjoituksia\ODataV4Endpoint\ODataV4Endpoint\obj\Debug\ODataV4Endpoint.csprojResolveAssemblyReference.cache
+M:\2015 Kevät\Windows-ohjelmointi\Harjoituksia\ODataV4Endpoint\ODataV4Endpoint\obj\Debug\ODataV4Endpoint.dll
+M:\2015 Kevät\Windows-ohjelmointi\Harjoituksia\ODataV4Endpoint\ODataV4Endpoint\obj\Debug\ODataV4Endpoint.pdb
+C:\tmp\OData\ODataV4Endpoint_EntityRelations\ODataV4Endpoint\bin\ODataV4Endpoint.dll.config
+C:\tmp\OData\ODataV4Endpoint_EntityRelations\ODataV4Endpoint\bin\ODataV4Endpoint.dll
+C:\tmp\OData\ODataV4Endpoint_EntityRelations\ODataV4Endpoint\bin\ODataV4Endpoint.pdb
+C:\tmp\OData\ODataV4Endpoint_EntityRelations\ODataV4Endpoint\bin\EntityFramework.dll
+C:\tmp\OData\ODataV4Endpoint_EntityRelations\ODataV4Endpoint\bin\EntityFramework.SqlServer.dll
+C:\tmp\OData\ODataV4Endpoint_EntityRelations\ODataV4Endpoint\bin\Microsoft.OData.Core.dll
+C:\tmp\OData\ODataV4Endpoint_EntityRelations\ODataV4Endpoint\bin\Microsoft.OData.Edm.dll
+C:\tmp\OData\ODataV4Endpoint_EntityRelations\ODataV4Endpoint\bin\Microsoft.Spatial.dll
+C:\tmp\OData\ODataV4Endpoint_EntityRelations\ODataV4Endpoint\bin\Newtonsoft.Json.dll
+C:\tmp\OData\ODataV4Endpoint_EntityRelations\ODataV4Endpoint\bin\System.Net.Http.Formatting.dll
+C:\tmp\OData\ODataV4Endpoint_EntityRelations\ODataV4Endpoint\bin\System.Web.Http.dll
+C:\tmp\OData\ODataV4Endpoint_EntityRelations\ODataV4Endpoint\bin\System.Web.Http.WebHost.dll
+C:\tmp\OData\ODataV4Endpoint_EntityRelations\ODataV4Endpoint\bin\System.Web.OData.dll
+C:\tmp\OData\ODataV4Endpoint_EntityRelations\ODataV4Endpoint\bin\EntityFramework.xml
+C:\tmp\OData\ODataV4Endpoint_EntityRelations\ODataV4Endpoint\bin\EntityFramework.SqlServer.xml
+C:\tmp\OData\ODataV4Endpoint_EntityRelations\ODataV4Endpoint\bin\Microsoft.OData.Core.xml
+C:\tmp\OData\ODataV4Endpoint_EntityRelations\ODataV4Endpoint\bin\Microsoft.OData.Edm.xml
+C:\tmp\OData\ODataV4Endpoint_EntityRelations\ODataV4Endpoint\bin\Microsoft.Spatial.xml
+C:\tmp\OData\ODataV4Endpoint_EntityRelations\ODataV4Endpoint\bin\Newtonsoft.Json.xml
+C:\tmp\OData\ODataV4Endpoint_EntityRelations\ODataV4Endpoint\bin\System.Net.Http.Formatting.xml
+C:\tmp\OData\ODataV4Endpoint_EntityRelations\ODataV4Endpoint\bin\System.Web.Http.xml
+C:\tmp\OData\ODataV4Endpoint_EntityRelations\ODataV4Endpoint\bin\System.Web.Http.WebHost.xml
+C:\tmp\OData\ODataV4Endpoint_EntityRelations\ODataV4Endpoint\bin\System.Web.OData.xml
+C:\tmp\OData\ODataV4Endpoint_EntityRelations\ODataV4Endpoint\bin\de\Microsoft.OData.Core.resources.dll
+C:\tmp\OData\ODataV4Endpoint_EntityRelations\ODataV4Endpoint\bin\es\Microsoft.OData.Core.resources.dll
+C:\tmp\OData\ODataV4Endpoint_EntityRelations\ODataV4Endpoint\bin\fr\Microsoft.OData.Core.resources.dll
+C:\tmp\OData\ODataV4Endpoint_EntityRelations\ODataV4Endpoint\bin\it\Microsoft.OData.Core.resources.dll
+C:\tmp\OData\ODataV4Endpoint_EntityRelations\ODataV4Endpoint\bin\ja\Microsoft.OData.Core.resources.dll
+C:\tmp\OData\ODataV4Endpoint_EntityRelations\ODataV4Endpoint\bin\ko\Microsoft.OData.Core.resources.dll
+C:\tmp\OData\ODataV4Endpoint_EntityRelations\ODataV4Endpoint\bin\ru\Microsoft.OData.Core.resources.dll
+C:\tmp\OData\ODataV4Endpoint_EntityRelations\ODataV4Endpoint\bin\zh-Hans\Microsoft.OData.Core.resources.dll
+C:\tmp\OData\ODataV4Endpoint_EntityRelations\ODataV4Endpoint\bin\zh-Hant\Microsoft.OData.Core.resources.dll
+C:\tmp\OData\ODataV4Endpoint_EntityRelations\ODataV4Endpoint\bin\de\Microsoft.OData.Edm.resources.dll
+C:\tmp\OData\ODataV4Endpoint_EntityRelations\ODataV4Endpoint\bin\es\Microsoft.OData.Edm.resources.dll
+C:\tmp\OData\ODataV4Endpoint_EntityRelations\ODataV4Endpoint\bin\fr\Microsoft.OData.Edm.resources.dll
+C:\tmp\OData\ODataV4Endpoint_EntityRelations\ODataV4Endpoint\bin\it\Microsoft.OData.Edm.resources.dll
+C:\tmp\OData\ODataV4Endpoint_EntityRelations\ODataV4Endpoint\bin\ja\Microsoft.OData.Edm.resources.dll
+C:\tmp\OData\ODataV4Endpoint_EntityRelations\ODataV4Endpoint\bin\ko\Microsoft.OData.Edm.resources.dll
+C:\tmp\OData\ODataV4Endpoint_EntityRelations\ODataV4Endpoint\bin\ru\Microsoft.OData.Edm.resources.dll
+C:\tmp\OData\ODataV4Endpoint_EntityRelations\ODataV4Endpoint\bin\zh-Hans\Microsoft.OData.Edm.resources.dll
+C:\tmp\OData\ODataV4Endpoint_EntityRelations\ODataV4Endpoint\bin\zh-Hant\Microsoft.OData.Edm.resources.dll
+C:\tmp\OData\ODataV4Endpoint_EntityRelations\ODataV4Endpoint\bin\de\Microsoft.Spatial.resources.dll
+C:\tmp\OData\ODataV4Endpoint_EntityRelations\ODataV4Endpoint\bin\es\Microsoft.Spatial.resources.dll
+C:\tmp\OData\ODataV4Endpoint_EntityRelations\ODataV4Endpoint\bin\fr\Microsoft.Spatial.resources.dll
+C:\tmp\OData\ODataV4Endpoint_EntityRelations\ODataV4Endpoint\bin\it\Microsoft.Spatial.resources.dll
+C:\tmp\OData\ODataV4Endpoint_EntityRelations\ODataV4Endpoint\bin\ja\Microsoft.Spatial.resources.dll
+C:\tmp\OData\ODataV4Endpoint_EntityRelations\ODataV4Endpoint\bin\ko\Microsoft.Spatial.resources.dll
+C:\tmp\OData\ODataV4Endpoint_EntityRelations\ODataV4Endpoint\bin\ru\Microsoft.Spatial.resources.dll
+C:\tmp\OData\ODataV4Endpoint_EntityRelations\ODataV4Endpoint\bin\zh-Hans\Microsoft.Spatial.resources.dll
+C:\tmp\OData\ODataV4Endpoint_EntityRelations\ODataV4Endpoint\bin\zh-Hant\Microsoft.Spatial.resources.dll
+C:\tmp\OData\ODataV4Endpoint_EntityRelations\ODataV4Endpoint\obj\Debug\ODataV4Endpoint.csprojResolveAssemblyReference.cache
+C:\tmp\OData\ODataV4Endpoint_EntityRelations\ODataV4Endpoint\obj\Debug\ODataV4Endpoint.dll
+C:\tmp\OData\ODataV4Endpoint_EntityRelations\ODataV4Endpoint\obj\Debug\ODataV4Endpoint.pdb
